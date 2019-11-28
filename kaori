@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>portfolio OKUMURA KAORI</title>
+	<link href="css/style.css" rel="stylesheet" type="text/css">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.4/css/all.css">
+</head>
+
+<body>
+<div id="top_menu">
+	<ul>
+		<li><a href="aboutme.html"><img src="images/topimages/aboutme_btn.svg" width="107" height="107" alt="aboutme"/></a></li>
+		<li><a href="web.html"><img src="images/topimages/web_btn.svg" width="107" height="107" alt="web"/></a></li> 
+		<li><a href="dtp.html"><img src="images/topimages/dtp_btn.svg" width="107" height="107" alt="dtp"/></a></li>
+	</ul>
+</div>
+	
+<div id="top_irasuto">
+	<p id="absolute_1"><img src="images/topimages/usagi.svg" width="100" alt="usagi"/></p>
+	<p id="absolute_2"><img src="images/topimages/portfolio.svg" width="280" alt="portfolio"/></p>
+	<p id="absolute_3"><img src="images/topimages/okumura.svg" width="210" alt="name"/></p>
+	<p id="absolute_4"><img src="images/topimages/irasuto.svg" width="300" alt="irasuto"/></p>
+</div>
+
+</body>
+</html>
